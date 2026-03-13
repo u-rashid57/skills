@@ -1,6 +1,12 @@
 ---
 name: pipeline-inspector
 description: Advanced structured troubleshooting, optimization, and guidance for CI/CD pipelines with YAML examples for Azure DevOps, GitHub Actions, and hybrid environments.
+license: MIT
+metadata:
+  author: u-rashid57
+  version: "1.0.0"
+  domain: utilities
+  output-format: markdown
 ---
 
 # Pipeline Inspector Skill
