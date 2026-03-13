@@ -21,3 +21,18 @@ skills/pipeline-inspector/skill.md
 ```bash
 npx skills add u-rashid57/agent-skills --skill pipeline-inspector
 ```
+
+### 2. Prompt Optimizer
+Intelligent prompt and context manager for coding workflows. This skill helps maximize output while minimizing token usage, by guiding efficient prompt writing, model selection, and context management. 
+
+Ideal for developers working with multi-file projects, debugging, or generating code efficiently.
+
+### Location
+```
+skills/prompt-optimizer/skill.md
+```
+
+### Installation
+```bash
+npx skills add u-rashid57/agent-skills --skill prompt-optimizer
+```

@@ -1,5 +1,5 @@
 ---
-name: smart-prompt-optimizer
+name: prompt-optimizer
 license: MIT
 metadata:
   author: u-rashid57
