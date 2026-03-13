@@ -212,5 +212,3 @@ Quick save before /clear:
 ```
 
 Tip: always use "code only" flags and targeted line ranges to save tokens.
-
-```
